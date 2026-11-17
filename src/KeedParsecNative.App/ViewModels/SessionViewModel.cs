@@ -52,8 +52,25 @@ public sealed class SessionViewModel : ObservableObject, IAsyncDisposable
         _coordinator.MediaTransportReady += OnMediaTransportReadyAsync;
         _coordinator.PeerPermissionsChanged += OnPeerPermissionsChangedAsync;
 
-        var monitors = _monitorSource.Enumerate();
-        System.Diagnostics.Debug.WriteLine($"[VM] Found {monitors.Count} monitors");
+        IReadOnlyList<MonitorInfo> monitors;
+        try
+        {
+            monitors = _monitorSource.Enumerate();
+            System.Diagnostics.Debug.WriteLine($"[VM] Found {monitors.Count} monitors");
+        }
+        catch (Exception ex)
+        {
+            System.Diagnostics.Debug.WriteLine($"[VM] Monitor enumeration failed: {ex.Message}");
+            monitors = Array.Empty<MonitorInfo>();
+        }
+        if (monitors.Count == 0)
+        {
+            System.Diagnostics.Debug.WriteLine("[VM] No monitors found, using fallback");
+            monitors = new List<MonitorInfo>
+            {
+                new() { Index = 0, DeviceName = "Primary", Width = 1920, Height = 1080, X = 0, Y = 0, IsPrimary = true }
+            };
+        }
         Monitors = new ObservableCollection<MonitorInfo>(monitors);
         SelectedMonitorIndex = config.Streaming.SelectedMonitorIndex;
         BrokerUriText = config.Signaling.BrokerUri;

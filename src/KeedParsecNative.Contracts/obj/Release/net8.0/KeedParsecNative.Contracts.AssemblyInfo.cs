@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeedParsecNative.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0a8dda45a81341303c6a009338a718cdb5a8b96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2a9f3d84151423af24b8dc11241fd98949f5a53")]
 [assembly: System.Reflection.AssemblyProductAttribute("KeedParsecNative.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeedParsecNative.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

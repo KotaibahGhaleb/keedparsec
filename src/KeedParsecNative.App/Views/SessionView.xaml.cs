@@ -3,6 +3,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using Point = System.Windows.Point;
 using KeedParsecNative.App.ViewModels;
 using KeedParsecNative.Contracts.Session;
 using KeedParsecNative.Core.Abstractions;

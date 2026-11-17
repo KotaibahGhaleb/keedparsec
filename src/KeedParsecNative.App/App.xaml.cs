@@ -13,22 +13,38 @@ public partial class App : Application
     {
         base.OnStartup(e);
 
-        var basePath = AppContext.BaseDirectory;
-        var environment = System.Diagnostics.Debugger.IsAttached ? "Development" : "Production";
-        var config = AppConfigLoader.Load(basePath, environment);
-
-        _sessionViewModel = new SessionViewModel(config);
-
-        if (MainWindow is { } window)
+        DispatcherUnhandledException += (_, args) =>
         {
-            window.DataContext = _sessionViewModel;
-            window.Closed += async (_, _) =>
+            MessageBox.Show($"Unhandled UI exception:\n{args.Exception}", "KeedParsecNative Error",
+                MessageBoxButton.OK, MessageBoxImage.Error);
+            args.Handled = true;
+        };
+
+        try
+        {
+            var basePath = AppContext.BaseDirectory;
+            var environment = System.Diagnostics.Debugger.IsAttached ? "Development" : "Production";
+            var config = AppConfigLoader.Load(basePath, environment);
+
+            _sessionViewModel = new SessionViewModel(config);
+
+            if (MainWindow is { } window)
             {
-                if (_sessionViewModel is not null)
+                window.DataContext = _sessionViewModel;
+                window.Closed += async (_, _) =>
                 {
-                    await _sessionViewModel.DisposeAsync();
-                }
-            };
+                    if (_sessionViewModel is not null)
+                    {
+                        await _sessionViewModel.DisposeAsync();
+                    }
+                };
+            }
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show($"Startup failed:\n{ex}", "KeedParsecNative Startup Error",
+                MessageBoxButton.OK, MessageBoxImage.Error);
+            Shutdown(1);
         }
     }
 
