@@ -182,6 +182,8 @@ public sealed class SessionViewModel : ObservableObject, IAsyncDisposable
         {
             await _coordinator.StartHostingAsync(ParseBrokerUri(), _config.Signaling.ClientIdPrefix,
                 VideoConfig, AudioConfig);
+            OnPropertyChanged(nameof(RoomCode));
+            OnPropertyChanged(nameof(SessionState));
         }
         catch (Exception ex)
         {

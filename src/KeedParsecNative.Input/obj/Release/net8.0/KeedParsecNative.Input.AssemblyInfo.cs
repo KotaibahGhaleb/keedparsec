@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeedParsecNative.Input")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a06ae488da7292e2bf07b02461bb1b2c8fbfceb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0a8dda45a81341303c6a009338a718cdb5a8b96")]
 [assembly: System.Reflection.AssemblyProductAttribute("KeedParsecNative.Input")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeedParsecNative.Input")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
