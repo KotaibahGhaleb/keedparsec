@@ -15,3 +15,4 @@ D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Release\
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Release\net8.0-windows\refint\KeedParsecNative.Capture.dll
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Release\net8.0-windows\KeedParsecNative.Capture.pdb
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Release\net8.0-windows\ref\KeedParsecNative.Capture.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Release\net8.0-windows\KeedParsecNative.Capture.sourcelink.json

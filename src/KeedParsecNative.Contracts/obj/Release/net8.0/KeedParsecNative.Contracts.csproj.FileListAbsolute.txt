@@ -9,3 +9,4 @@ D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\obj\Releas
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\obj\Release\net8.0\refint\KeedParsecNative.Contracts.dll
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\obj\Release\net8.0\KeedParsecNative.Contracts.pdb
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\obj\Release\net8.0\ref\KeedParsecNative.Contracts.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\obj\Release\net8.0\KeedParsecNative.Contracts.sourcelink.json

@@ -13,3 +13,4 @@ D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Release\net
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Release\net8.0\refint\KeedParsecNative.Core.dll
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Release\net8.0\KeedParsecNative.Core.pdb
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Release\net8.0\ref\KeedParsecNative.Core.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Release\net8.0\KeedParsecNative.Core.sourcelink.json

@@ -114,3 +114,4 @@ D:\proramming project\keedparsecNative\src\KeedParsecNative.App\bin\Release\net8
 D:\proramming project\keedparsecNative\src\KeedParsecNative.App\bin\Release\net8.0-windows\NAudio.WinForms.dll
 D:\proramming project\keedparsecNative\src\KeedParsecNative.App\bin\Release\net8.0-windows\NAudio.WinMM.dll
 D:\proramming project\keedparsecNative\src\KeedParsecNative.App\bin\Release\net8.0-windows\Nefarius.ViGEm.Client.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.App\obj\Release\net8.0-windows\KeedParsecNative.App.sourcelink.json

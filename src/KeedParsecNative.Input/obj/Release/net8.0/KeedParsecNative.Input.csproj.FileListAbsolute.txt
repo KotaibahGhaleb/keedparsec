@@ -15,3 +15,4 @@ D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Release\ne
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Release\net8.0\refint\KeedParsecNative.Input.dll
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Release\net8.0\KeedParsecNative.Input.pdb
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Release\net8.0\ref\KeedParsecNative.Input.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Release\net8.0\KeedParsecNative.Input.sourcelink.json

@@ -17,3 +17,4 @@ D:\proramming project\keedparsecNative\src\KeedParsecNative.Streaming\obj\Releas
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Streaming\obj\Release\net8.0\ref\KeedParsecNative.Streaming.dll
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Streaming\bin\Release\net8.0\H264SharpNative-win64.dll
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Streaming\bin\Release\net8.0\openh264-2.4.1-win64.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Streaming\obj\Release\net8.0\KeedParsecNative.Streaming.sourcelink.json

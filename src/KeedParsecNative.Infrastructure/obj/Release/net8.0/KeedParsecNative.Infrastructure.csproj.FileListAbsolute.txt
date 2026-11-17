@@ -13,3 +13,4 @@ D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\R
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\Release\net8.0\refint\KeedParsecNative.Infrastructure.dll
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\Release\net8.0\KeedParsecNative.Infrastructure.pdb
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\Release\net8.0\ref\KeedParsecNative.Infrastructure.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\Release\net8.0\KeedParsecNative.Infrastructure.sourcelink.json

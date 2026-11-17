@@ -52,7 +52,9 @@ public sealed class SessionViewModel : ObservableObject, IAsyncDisposable
         _coordinator.MediaTransportReady += OnMediaTransportReadyAsync;
         _coordinator.PeerPermissionsChanged += OnPeerPermissionsChangedAsync;
 
-        Monitors = new ObservableCollection<MonitorInfo>(_monitorSource.Enumerate());
+        var monitors = _monitorSource.Enumerate();
+        System.Diagnostics.Debug.WriteLine($"[VM] Found {monitors.Count} monitors");
+        Monitors = new ObservableCollection<MonitorInfo>(monitors);
         SelectedMonitorIndex = config.Streaming.SelectedMonitorIndex;
         BrokerUriText = config.Signaling.BrokerUri;
 
@@ -102,7 +104,13 @@ public sealed class SessionViewModel : ObservableObject, IAsyncDisposable
     public string? BrokerUriText
     {
         get => _brokerUriText;
-        set => SetProperty(ref _brokerUriText, value);
+        set
+        {
+            if (SetProperty(ref _brokerUriText, value) && value is not null)
+            {
+                _config.Signaling.BrokerUri = value;
+            }
+        }
     }
     private string? _brokerUriText;
 

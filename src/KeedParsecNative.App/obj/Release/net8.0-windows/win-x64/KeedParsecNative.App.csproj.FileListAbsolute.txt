@@ -554,3 +554,4 @@ D:\proramming project\keedparsecNative\src\KeedParsecNative.App\obj\Release\net8
 D:\proramming project\keedparsecNative\src\KeedParsecNative.App\obj\Release\net8.0-windows\win-x64\KeedParsecNative.App.genruntimeconfig.cache
 D:\proramming project\keedparsecNative\src\KeedParsecNative.App\obj\Release\net8.0-windows\win-x64\ref\KeedParsecNative.App.dll
 D:\proramming project\keedparsecNative\src\KeedParsecNative.App\bin\Release\net8.0-windows\win-x64\Nefarius.ViGEm.Client.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.App\obj\Release\net8.0-windows\win-x64\KeedParsecNative.App.sourcelink.json

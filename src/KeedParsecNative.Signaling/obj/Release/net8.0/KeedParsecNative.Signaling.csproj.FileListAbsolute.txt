@@ -15,3 +15,4 @@ D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Releas
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Release\net8.0\refint\KeedParsecNative.Signaling.dll
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Release\net8.0\KeedParsecNative.Signaling.pdb
 D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Release\net8.0\ref\KeedParsecNative.Signaling.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Release\net8.0\KeedParsecNative.Signaling.sourcelink.json
