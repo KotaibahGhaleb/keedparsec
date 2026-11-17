@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\KeedParsecNative.Core\KeedParsecNative.Core.csproj" />
+    <ProjectReference Include="..\KeedParsecNative.Contracts\KeedParsecNative.Contracts.csproj" />
+    <ProjectReference Include="..\KeedParsecNative.Infrastructure\KeedParsecNative.Infrastructure.csproj" />
+    <ProjectReference Include="..\KeedParsecNative.Signaling\KeedParsecNative.Signaling.csproj" />
+    <ProjectReference Include="..\KeedParsecNative.Capture\KeedParsecNative.Capture.csproj" />
+    <ProjectReference Include="..\KeedParsecNative.Input\KeedParsecNative.Input.csproj" />
+    <ProjectReference Include="..\KeedParsecNative.Streaming\KeedParsecNative.Streaming.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

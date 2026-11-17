@@ -1,0 +1,32 @@
+﻿<Window x:Class="KeedParsecNative.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:views="clr-namespace:KeedParsecNative.App.Views"
+        Title="KeedParsecNative" Height="720" Width="1100"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="180"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Column="0" Background="#FF1E1E28" Padding="8">
+            <StackPanel>
+                <TextBlock Text="KeedParsecNative" FontSize="18" FontWeight="Bold"
+                           Foreground="White" Margin="8,8,8,20"/>
+                <ListBox x:Name="NavList" Background="Transparent" BorderThickness="0"
+                         Foreground="White" SelectedIndex="0">
+                    <ListBoxItem Content="Host a Session" Tag="{x:Type views:HostSessionView}"/>
+                    <ListBoxItem Content="Join a Session" Tag="{x:Type views:JoinSessionView}"/>
+                    <ListBoxItem Content="Live Session" Tag="{x:Type views:SessionView}"/>
+                    <ListBoxItem Content="Settings" Tag="{x:Type views:SettingsView}"/>
+                    <ListBoxItem Content="Connection Status" Tag="{x:Type views:StatusView}"/>
+                </ListBox>
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Column="1" Padding="16">
+            <ContentControl x:Name="PageHost"/>
+        </Border>
+    </Grid>
+</Window>

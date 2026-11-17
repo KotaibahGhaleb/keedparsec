@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/KeedParsecNative.App/KeedParsecNative.App.csproj" />
+    <Project Path="src/KeedParsecNative.Capture/KeedParsecNative.Capture.csproj" />
+    <Project Path="src/KeedParsecNative.Contracts/KeedParsecNative.Contracts.csproj" />
+    <Project Path="src/KeedParsecNative.Core/KeedParsecNative.Core.csproj" />
+    <Project Path="src/KeedParsecNative.Infrastructure/KeedParsecNative.Infrastructure.csproj" />
+    <Project Path="src/KeedParsecNative.Input/KeedParsecNative.Input.csproj" />
+    <Project Path="src/KeedParsecNative.Signaling/KeedParsecNative.Signaling.csproj" />
+    <Project Path="src/KeedParsecNative.Streaming/KeedParsecNative.Streaming.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/KeedParsecNative.IntegrationTests/KeedParsecNative.IntegrationTests.csproj" />
+    <Project Path="tests/KeedParsecNative.UnitTests/KeedParsecNative.UnitTests.csproj" />
+  </Folder>
+</Solution>

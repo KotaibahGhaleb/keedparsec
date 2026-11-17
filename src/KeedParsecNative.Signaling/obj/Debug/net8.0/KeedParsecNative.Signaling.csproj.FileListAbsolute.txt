@@ -1,0 +1,17 @@
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Debug\net8.0\KeedParsecNative.Signaling.csproj.AssemblyReference.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Debug\net8.0\KeedParsecNative.Signaling.GeneratedMSBuildEditorConfig.editorconfig
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Debug\net8.0\KeedParsecNative.Signaling.AssemblyInfoInputs.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Debug\net8.0\KeedParsecNative.Signaling.AssemblyInfo.cs
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Debug\net8.0\KeedParsecNative.Signaling.csproj.CoreCompileInputs.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\bin\Debug\net8.0\KeedParsecNative.Signaling.deps.json
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\bin\Debug\net8.0\KeedParsecNative.Signaling.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\bin\Debug\net8.0\KeedParsecNative.Signaling.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\bin\Debug\net8.0\KeedParsecNative.Contracts.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\bin\Debug\net8.0\KeedParsecNative.Core.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\bin\Debug\net8.0\KeedParsecNative.Core.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\bin\Debug\net8.0\KeedParsecNative.Contracts.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Debug\net8.0\KeedPars.A250619A.Up2Date
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Debug\net8.0\KeedParsecNative.Signaling.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Debug\net8.0\refint\KeedParsecNative.Signaling.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Debug\net8.0\KeedParsecNative.Signaling.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Signaling\obj\Debug\net8.0\ref\KeedParsecNative.Signaling.dll

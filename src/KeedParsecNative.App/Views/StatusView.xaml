@@ -1,0 +1,38 @@
+<UserControl x:Class="KeedParsecNative.App.Views.StatusView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <StackPanel MaxWidth="640">
+        <TextBlock Text="Connection Status" FontSize="22" FontWeight="Bold" Margin="0,0,0,16"/>
+
+        <UniformGrid Columns="2">
+            <StackPanel Margin="0,0,12,8">
+                <TextBlock Text="Role" FontWeight="SemiBold"/>
+                <TextBlock Text="{Binding Role}"/>
+            </StackPanel>
+            <StackPanel Margin="0,0,0,8">
+                <TextBlock Text="Room" FontWeight="SemiBold"/>
+                <TextBlock Text="{Binding RoomCode, TargetNullValue='—', FallbackValue='—'}"/>
+            </StackPanel>
+            <StackPanel Margin="0,0,12,8">
+                <TextBlock Text="Session state" FontWeight="SemiBold"/>
+                <TextBlock Text="{Binding SessionState}" FontWeight="Bold"/>
+            </StackPanel>
+            <StackPanel Margin="0,0,0,8">
+                <TextBlock Text="Local peer" FontWeight="SemiBold"/>
+                <TextBlock Text="{Binding LocalPeerId}"/>
+            </StackPanel>
+        </UniformGrid>
+
+        <TextBlock Text="Peers" FontWeight="SemiBold" Margin="0,12,0,4"/>
+        <ItemsControl ItemsSource="{Binding PeerSummaries}">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}" Margin="0,2"/>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+
+        <TextBlock Text="{Binding StatusMessage}" Margin="0,16,0,0" TextWrapping="Wrap"/>
+        <TextBlock Text="{Binding FailureReason}" Foreground="IndianRed" TextWrapping="Wrap"/>
+    </StackPanel>
+</UserControl>

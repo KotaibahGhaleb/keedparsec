@@ -1,0 +1,26 @@
+<UserControl x:Class="KeedParsecNative.App.Views.SettingsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <StackPanel MaxWidth="520">
+        <TextBlock Text="Settings" FontSize="22" FontWeight="Bold" Margin="0,0,0,16"/>
+
+        <TextBlock Text="Signaling broker URI" FontWeight="SemiBold"/>
+        <TextBox Text="{Binding BrokerUriText, UpdateSourceTrigger=PropertyChanged}"
+                 Margin="0,4,0,4"/>
+        <TextBlock Text="e.g. mqtt://localhost:1883 or mqtts://broker.example.com:8883"
+                   Foreground="Gray" FontSize="11" TextWrapping="Wrap" Margin="0,0,0,16"/>
+
+        <TextBlock Text="Connection type preference" FontWeight="SemiBold"/>
+        <ComboBox SelectedIndex="0" Margin="0,4,0,8" IsEnabled="False">
+            <ComboBoxItem Content="Direct IP (preferred)"/>
+            <ComboBoxItem Content="Direct IPv6"/>
+            <ComboBoxItem Content="TURN relay (fallback)"/>
+        </ComboBox>
+        <TextBlock Text="Media transport selection arrives with the WebRTC layer (Phase 3)."
+                   Foreground="Gray" FontSize="11" TextWrapping="Wrap" Margin="0,0,0,16"/>
+
+        <TextBlock Text="TURN servers are configured in appsettings.json / environment variables, "
+                       TextWrapping="Wrap" Foreground="Gray" FontSize="11"/>
+        <TextBlock Text="never hard-coded. See README for details." Foreground="Gray" FontSize="11"/>
+    </StackPanel>
+</UserControl>

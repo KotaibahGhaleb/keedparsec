@@ -1,0 +1,17 @@
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\bin\Debug\net8.0-windows\KeedParsecNative.Capture.deps.json
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\bin\Debug\net8.0-windows\KeedParsecNative.Capture.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\bin\Debug\net8.0-windows\KeedParsecNative.Capture.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\bin\Debug\net8.0-windows\KeedParsecNative.Contracts.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\bin\Debug\net8.0-windows\KeedParsecNative.Core.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\bin\Debug\net8.0-windows\KeedParsecNative.Core.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\bin\Debug\net8.0-windows\KeedParsecNative.Contracts.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Debug\net8.0-windows\KeedParsecNative.Capture.csproj.AssemblyReference.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Debug\net8.0-windows\KeedParsecNative.Capture.GeneratedMSBuildEditorConfig.editorconfig
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Debug\net8.0-windows\KeedParsecNative.Capture.AssemblyInfoInputs.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Debug\net8.0-windows\KeedParsecNative.Capture.AssemblyInfo.cs
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Debug\net8.0-windows\KeedParsecNative.Capture.csproj.CoreCompileInputs.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Debug\net8.0-windows\KeedPars.F69F54AA.Up2Date
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Debug\net8.0-windows\KeedParsecNative.Capture.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Debug\net8.0-windows\refint\KeedParsecNative.Capture.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Debug\net8.0-windows\KeedParsecNative.Capture.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Capture\obj\Debug\net8.0-windows\ref\KeedParsecNative.Capture.dll

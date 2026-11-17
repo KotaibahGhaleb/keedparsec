@@ -1,0 +1,17 @@
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Debug\net8.0\KeedParsecNative.Input.csproj.AssemblyReference.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Debug\net8.0\KeedParsecNative.Input.GeneratedMSBuildEditorConfig.editorconfig
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Debug\net8.0\KeedParsecNative.Input.AssemblyInfoInputs.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Debug\net8.0\KeedParsecNative.Input.AssemblyInfo.cs
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Debug\net8.0\KeedParsecNative.Input.csproj.CoreCompileInputs.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\bin\Debug\net8.0\KeedParsecNative.Input.deps.json
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\bin\Debug\net8.0\KeedParsecNative.Input.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\bin\Debug\net8.0\KeedParsecNative.Input.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\bin\Debug\net8.0\KeedParsecNative.Contracts.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\bin\Debug\net8.0\KeedParsecNative.Core.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\bin\Debug\net8.0\KeedParsecNative.Core.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\bin\Debug\net8.0\KeedParsecNative.Contracts.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Debug\net8.0\KeedPars.87B5C2AB.Up2Date
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Debug\net8.0\KeedParsecNative.Input.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Debug\net8.0\refint\KeedParsecNative.Input.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Debug\net8.0\KeedParsecNative.Input.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Input\obj\Debug\net8.0\ref\KeedParsecNative.Input.dll

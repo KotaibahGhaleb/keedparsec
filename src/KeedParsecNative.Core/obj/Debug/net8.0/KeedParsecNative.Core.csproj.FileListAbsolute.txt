@@ -1,0 +1,15 @@
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\bin\Debug\net8.0\KeedParsecNative.Core.deps.json
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\bin\Debug\net8.0\KeedParsecNative.Core.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\bin\Debug\net8.0\KeedParsecNative.Core.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\bin\Debug\net8.0\KeedParsecNative.Contracts.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\bin\Debug\net8.0\KeedParsecNative.Contracts.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Debug\net8.0\KeedParsecNative.Core.csproj.AssemblyReference.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Debug\net8.0\KeedParsecNative.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Debug\net8.0\KeedParsecNative.Core.AssemblyInfoInputs.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Debug\net8.0\KeedParsecNative.Core.AssemblyInfo.cs
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Debug\net8.0\KeedParsecNative.Core.csproj.CoreCompileInputs.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Debug\net8.0\KeedPars.C3E2C30B.Up2Date
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Debug\net8.0\KeedParsecNative.Core.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Debug\net8.0\refint\KeedParsecNative.Core.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Debug\net8.0\KeedParsecNative.Core.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Core\obj\Debug\net8.0\ref\KeedParsecNative.Core.dll

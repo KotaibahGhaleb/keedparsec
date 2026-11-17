@@ -1,0 +1,15 @@
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\bin\Release\net8.0\KeedParsecNative.Infrastructure.deps.json
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\bin\Release\net8.0\KeedParsecNative.Infrastructure.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\bin\Release\net8.0\KeedParsecNative.Infrastructure.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\bin\Release\net8.0\KeedParsecNative.Contracts.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\bin\Release\net8.0\KeedParsecNative.Contracts.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\Release\net8.0\KeedParsecNative.Infrastructure.csproj.AssemblyReference.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\Release\net8.0\KeedParsecNative.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\Release\net8.0\KeedParsecNative.Infrastructure.AssemblyInfoInputs.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\Release\net8.0\KeedParsecNative.Infrastructure.AssemblyInfo.cs
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\Release\net8.0\KeedParsecNative.Infrastructure.csproj.CoreCompileInputs.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\Release\net8.0\KeedPars.9F272417.Up2Date
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\Release\net8.0\KeedParsecNative.Infrastructure.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\Release\net8.0\refint\KeedParsecNative.Infrastructure.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\Release\net8.0\KeedParsecNative.Infrastructure.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Infrastructure\obj\Release\net8.0\ref\KeedParsecNative.Infrastructure.dll

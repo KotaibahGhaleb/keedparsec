@@ -1,0 +1,20 @@
+﻿KeedParsecNative.App
+
+
+winexe
+C#
+.cs
+D:\proramming project\keedparsecNative\src\KeedParsecNative.App\obj\Release\net8.0-windows\
+KeedParsecNative.App
+none
+false
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\proramming project\keedparsecNative\src\KeedParsecNative.App\App.xaml
+6-1321023251
+
+161232442182
+260158375372
+MainWindow.xaml;Views\HostSessionView.xaml;Views\JoinSessionView.xaml;Views\SessionView.xaml;Views\SettingsView.xaml;Views\StatusView.xaml;
+
+False
+

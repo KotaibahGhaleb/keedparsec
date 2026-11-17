@@ -1,0 +1,11 @@
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\bin\Release\net8.0\KeedParsecNative.Contracts.deps.json
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\bin\Release\net8.0\KeedParsecNative.Contracts.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\bin\Release\net8.0\KeedParsecNative.Contracts.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\obj\Release\net8.0\KeedParsecNative.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\obj\Release\net8.0\KeedParsecNative.Contracts.AssemblyInfoInputs.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\obj\Release\net8.0\KeedParsecNative.Contracts.AssemblyInfo.cs
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\obj\Release\net8.0\KeedParsecNative.Contracts.csproj.CoreCompileInputs.cache
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\obj\Release\net8.0\KeedParsecNative.Contracts.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\obj\Release\net8.0\refint\KeedParsecNative.Contracts.dll
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\obj\Release\net8.0\KeedParsecNative.Contracts.pdb
+D:\proramming project\keedparsecNative\src\KeedParsecNative.Contracts\obj\Release\net8.0\ref\KeedParsecNative.Contracts.dll
